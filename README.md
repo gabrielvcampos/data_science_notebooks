@@ -1,2 +1,2 @@
 # data_science_notebooks
-Data Science Notebooks
+My Data Science study notebooks
